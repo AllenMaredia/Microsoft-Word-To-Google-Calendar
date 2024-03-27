@@ -12,9 +12,13 @@ Ensure the date/name entry pairs are on their own lines and have the appropriate
 The "(space):(space)" is crucial to include between your date and event name. Examples below:
 
 1/1/24 : New Year's Day
+
 1/15/24 : MLK Day
+
 2/2/24 : Groundhog Day
+
 2/14/24 : Valentine's Day
+
 2/19/24 : President's Day
 
 # Note
