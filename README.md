@@ -21,6 +21,8 @@ The "(space):(space)" is crucial to include between your date and event name. Ex
 
 2/19/24 : President's Day
 
+The WordToCalendarDemoDoc has also been added to be used for testing.
+
 # Note
 
 The project is currently in testing mode which means unauthorized users won't be able to connect their Google accounts and thus their calendars.
