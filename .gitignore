@@ -1,0 +1,6 @@
+virt/
+instance/
+__pycache__
+migrations/
+
+/credentials.json
